@@ -1,2 +1,17 @@
 # TacticalComm
-Secure tactical messenger with Mesh networking support
+
+**TacticalComm** — це захищений месенджер для тактичного зв'язку, що працює на базі децентралізованої Mesh-мережі без доступу до інтернету.
+
+## Основні можливості (Features)
+* **Mesh Networking:** Автономна робота через Wi-Fi Direct та Bluetooth.
+* **End-to-End Encryption:** Шифрування повідомлень стандартом AES-256.
+* **GPS Tracking:** Відображення координат учасників групи на офлайн-мапі.
+* **Battery Saver:** Адаптивний режим сканування для економії заряду.
+
+## Технологічний стек
+* **Мова:** Kotlin / Java
+* **Архітектура:** MVVM
+* **Безпека:** Signal Protocol, SQLCipher
+
+## Статус розробки
+Проєкт знаходиться на стадії активної розробки MVP (Sprint 3).
